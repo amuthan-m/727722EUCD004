@@ -1,0 +1,11 @@
+node -v
+npm -v
+
+Creating React App:
+npx create-react-app app_name
+dir folder_name
+cd folder_name
+npm start
+
+To install the specific version:
+npm instaall -g npm@10.2.4
